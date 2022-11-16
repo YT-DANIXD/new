@@ -21,12 +21,12 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/HAMZXPRESET'
-global.ig = 'https://www.instagram.com/syidaa._'
+global.ig = 'https://www.instagram.com/danibotz_official'
 global.mygc = 'https://chat.whatsapp.com/L5X4iarh2CyBrFTMYxfD3o'
-global.myweb = 'github.com/Hmzzfz'
+global.myweb = 'github.com/YT-DANIXD'
 global.linkgrupss = "https://chat.whatsapp.com/L5X4iarh2CyBrFTMYxfD3o"
-global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
-global.linkun = 'mailto:support@whatsapp.com?subject=Account%20Locked&body=Good%20Afternoon%20I%20Have%20A%20Problem%20Account%20Is%20Locked,%20I%20Spam%20Nothing%20But%20My%20Account%20Suddenly%20Locked,%20Please%20Reactivate%20This%20Number:%20[+62xxxxxx]'
+global.linkpro = 'Dani:support@whatsapp.com?subject=Deactivate%20My%20Account%20Number&body=Please%20Deactivate%20The%20My%20Account%20Number%20%2B62XXXXXXXX%20Immediately%20Because%20The%20Number%20Has%20Been%20Lost'
+global.linkun = 'Dani:support@whatsapp.com?subject=Account%20Locked&body=Good%20Afternoon%20I%20Have%20A%20Problem%20Account%20Is%20Locked,%20I%20Spam%20Nothing%20But%20My%20Account%20Suddenly%20Locked,%20Please%20Reactivate%20This%20Number:%20[+62xxxxxx]'
 global.email = 'stokhamz98@gmail.com'
 global.ntidel = ['120363041515922784@g.us']
 global.wlcm = []
@@ -45,11 +45,11 @@ global.botname = ' BOTZ HAMZ' //ubah jadi nama bot mu, note tanda ' gausah di ha
 global.footer = '༺~ •HAMZ BOTZ• ~༻' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6285890531178'] 
-global.premium = ['6285890531178']
-global.packname = '༺~ •hmzz botz• ~༻'
-global.ownerr = ['༺~ •hmzz ofc• ~༻']
-global.author = '༺~ •hamzzbotz• ~༻'
+global.owner = ['6281251549899,6281348106274'] 
+global.premium = ['6281251549899,6281348106274']
+global.packname = '༺~ •Dani Dev• ~༻'
+global.ownerr = ['༺~ •DaniTzy• ~༻']
+global.author = '༺~ •Dani Dev• ~༻'
 global.sessionName = './sessionye/paktzy'
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sp = '⭔'
