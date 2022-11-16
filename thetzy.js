@@ -40,9 +40,9 @@ global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = '༺~ •HAMZZ OFC• ~༻' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = ' BOTZ HAMZ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = '༺~ •HAMZ BOTZ• ~༻' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = '༺~ •Dani Dev• ~༻' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'DaniTzy' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = '༺~ •DaniDev• ~༻' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
 global.owner = ['6281251549899,6281348106274'] 
